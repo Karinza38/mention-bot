@@ -1,4 +1,4 @@
-** THIS REPO HAS BEEN ARCHIVED AND IS NO LONGER BEING ACTIVELY MAINTAINED **
+ ** THIS REPO HAS BEEN ARCHIVED AND IS NO LONGER BEING ACTIVELY MAINTAINED **
 
 # mention-bot [![Build Status](https://travis-ci.org/facebook/mention-bot.svg?branch=master)](https://travis-ci.org/facebook/mention-bot)
 
